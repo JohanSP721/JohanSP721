@@ -2,4 +2,4 @@
 - 👀 I’m interested in Python Go JavaScript(Node.js) HTML CSS (and all this frameworks for Frontend and Backend) 
 - 🌱 I’m currently learning Angular and Flask
 - 💞️ I’m looking to collaborate on  Web Development Frontend or Backend
-- 📫 How to reach me @JohanSP721 on Twitter Johan Sarmiento Peña on LinkedIn
+- 📫 How to reach me Johan Sarmiento Peña on LinkedIn
